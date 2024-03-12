@@ -22,4 +22,4 @@ if file:
         elif x % 2 == 0:
             st.write('Nice song')
         else:
-            st.write('Yikes')
+            st.write('Overrated')
